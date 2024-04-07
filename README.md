@@ -2,11 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Sai Ganesh N</h1>
 <h3 align="center">Welcome to My Homepage</h3>
-<p align="center"> I’m a Bachelor of Technology (B.Tech) student in Computer Science and Engineering (Artificial Intelligence) at <a href="https://www.amrita.edu/" target="_blank">Amrita School of Engineering</a>, India. I am currently working as an Software Engineering Research Intern (AI) at <a href="https://www.zoho.com/" target="_blank">Zoho Technologies</a>, India and have previously worked as a Computer Vision (AI) Research Intern at the <a href="https://web.umang.gov.in/landing/" target="_blank">Amrita CREATE + UMANG Indian e-Governance Services</a> (collaboration) and have also worked as an ML Intern at a tech startup called Easycrop. </p>
-  
-<p align="center"> I've also published research papers on machine learning and IoT, titled <a href="https://drive.google.com/file/d/1NKmT1Tj3KggW8FWMJQzoHwHh-av59fiM/view" target="_blank">Twitter Data Analysis to Enhance Malware Detection using ML</a> and <a href="https://link.springer.com/chapter/10.1007/978-981-16-2877-1_19" target="_blank">Design of IoT-Enabled Farmer-Centric Multi-Crop Irrigation Support System, Springer Link.</a> which were accepted and published in international conferences. </p>
-  
-<p align="center"> My research interests are in the areas of Deep Learning, and Computer Vision and would also love to work on projects from other fields related to Machine Learning and A.I. Looking forward to a great opportunity and collaboration that intercorporate AI and encourages innovation. </p>
+
+<p align="center"> I am currently a Master of Science in Artificial Intelligence (MSAI) and Engineering Management (Minor) student at <a href="https://www.mccormick.northwestern.edu/artificial-intelligence/" target="_blank">Northwestern University</a>. I have diverse experience in AI projects, machine learning tools, and deep learning frameworks, having developed novel AI techniques in my previous role as an AI Engineer (R&D) at <a href="https://www.zoho.com/" target="_blank">Zoho CRM (SaaS)</a> and have previously worked as a Computer Vision (AI) Research Intern at the <a href="https://web.umang.gov.in/landing/" target="_blank">Amrita CREATE + UMANG Indian e-Governance Services</a> (collaboration) and have also worked as an ML Intern at a tech startup called Easycrop. </p>
+
+<p align="center"> I also published research in machine learning and IoT during my undergraduate program and served as a Teaching Assistant for the MBAI program at Kellogg. My academic and practical involvement in AI projects, along with my commitment to the academic and practical application of AI knowledge, position me well to contribute effectively. </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
