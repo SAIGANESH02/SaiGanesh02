@@ -1,51 +1,102 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**SAIGANESH02/SaiGanesh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center"><a href="https://github.com/SAIGANESH02"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
-
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/trekkie.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/octofez.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/mummytocat.gif" height="160px" width="160px"> </p>
+<p align="center"><a href="https://github.com/saiganesh02"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 <h1 align="center">Hi 👋, I'm Sai Ganesh N</h1>
-<!-- <h3 align="center">Artificial Intelligence Developer</h3> -->
+<h3 align="center">Welcome to My Homepage</h3>
+<p align="center"> I’m a Bachelor of Technology (B.Tech) student in Computer Science and Engineering (Artificial Intelligence) at <a href="https://www.amrita.edu/" target="_blank">Amrita School of Engineering</a>, India. I am currently working as an Software Engineering Research Intern (AI) at <a href="https://www.zoho.com/" target="_blank">Zoho Technologies</a>, India and have previously worked as a Computer Vision (AI) Research Intern at the <a href="https://web.umang.gov.in/landing/" target="_blank">Amrita CREATE + UMANG Indian e-Governance Services</a> (collaboration) and have also worked as an ML Intern at a tech startup called Easycrop. </p>
+  
+<p align="center"> I've also published research papers on machine learning and IoT, titled <a href="https://drive.google.com/file/d/1NKmT1Tj3KggW8FWMJQzoHwHh-av59fiM/view" target="_blank">Twitter Data Analysis to Enhance Malware Detection using ML</a> and <a href="https://link.springer.com/chapter/10.1007/978-981-16-2877-1_19" target="_blank">Design of IoT-Enabled Farmer-Centric Multi-Crop Irrigation Support System, Springer Link.</a> which were accepted and published in international conferences. </p>
+  
+<p align="center"> My research interests are in the areas of Deep Learning, and Computer Vision and would also love to work on projects from other fields related to Machine Learning and A.I. Looking forward to a great opportunity and collaboration that intercorporate AI and encourages innovation. </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/saigane75831398" target="blank"><img src="https://img.shields.io/twitter/follow/saigane75831398?logo=twitter&style=for-the-badge" alt="saigane75831398" /></a> </p> -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/saiganesh02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saiganesh02" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://github.com/SAIGANESH02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="saiganesh02" height="30" width="40" /></a>
 <a href="https://twitter.com/saigane75831398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saigane75831398" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saiganeshn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saiganeshn" height="30" width="40" /></a>
 <a href="https://kaggle.com/saiganesh02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saiganesh02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nsaiganesh2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nsaiganesh2003" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h3 align="center" style="font-style: italic;">A glimpse of the projects I've been working on</h3>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiganesh02&show_icons=true&locale=en&layout=compact" alt="saiganesh02" /></p> -->
+## (Computer) Vision with Lost Glasses 
+### Modelling how the brain deals with noisy input
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiganesh02&show_icons=true&locale=en" 
-alt="saiganesh02" /></p>
+Imagine you lost your spectacle and the world around you is completely blurred out. As you stumble around, you see a small animal walk towards you. Can you figure out what it is? Probably yes right? In this situation, or in foggy/night-time conditions, visual input is of poor quality; images are blurred and have low contrast and yet our brains manage to recognize it. Is it possible to model the process? Does previous experience help?
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiganesh02" alt="saiganesh02" /></a> </p>
+<a href="https://saiganesh02.github.io/Vision_with_Lost_Glasses" target="_blank">Check it out!</a>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiganesh02&" alt="saiganesh02" /></p> -->
+## Predicting the decision based on BFC
+### Maintaining the Brain Functional Connectivity (BFC) in the gambling task using the HCP fMRI data-set.
 
-<p align="center">  <img src="https://octodex.github.com/images/jetpacktocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/Fintechtocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/privateinvestocat.jpg" height="160px" width="160px"> <img src="https://octodex.github.com/images/heisencat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/skatetocat.png" height="160px" width="160px"></p>
+Are there any regions and networks in the brain which are more affected by the Win and Loss Event conditions corresponding to someone’s decision? To analyze data-set being preprocessed by HCP© for NMA-2021 that they recorded using fMRI is to analyze in this project to maintain connectivity and correlation of the areas which are involved in the task.
 
-<p align="center"><a href="https://github.com/yashk2000"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+<a href="https://saiganesh02.github.io/Predicting-the-decision-based-on-BFC/" target="_blank">Check it out!</a>
 
+## DeepFakes Generation Using Deep Learning
+### DeepFakes Generation Techniques for Face Forensics Using Deep Learning DCGAN model
 
+Deep fakes are a machine learning approach in which a person’s resemblance is changed in an existing image or video. Deep fakes have become a social problem since they allow anyone’s image to be co-opted, putting our ability to believe what we see into question. We create a GAN to generate deepfakes in this project.
+
+<a href="https://saiganesh02.github.io/DeepFakes-Generation-Using-Deep-Learning/" target="_blank">Check it out!</a>
+
+## Time Series Forecasting based on Ethereum Prices
+### Time Series Forecasting based on Ethereum Cryptocurrency Stock prices data with different Machine Learning and Deep Learning models
+A machine learning-based time series analysis was used to anticipate the market price and stability of Ethereum in the Crypto-market. Time-series analysis can forecast future price fluctuations in Ethereum. For time series analysis, we employed LSTM, moving averages, ARIMA, and FBProphet as machine learning approaches.
+
+<a href="https://saiganesh02.github.io/Time-Series-Forecasting-based-on-Ethereum-Prices/" target="_blank">Check it out!</a>
+
+## Super Mario Playing Agent Using RL
+### Super Mario Playing Agent using Double DQN Reinforcement learning method
+
+In this project, we use the PyTorch library to create the Reinforcement Learning method using the Deep Double Q-Network (DDQN) algorithms. We demonstrate how the recently developed Double Q learning (DQN) technique, which combines Q-learning with a deep neural network, may be utilised to create an agent that assists in completing levels in Super Mario Bros.
+
+<a href="https://saiganesh02.github.io/Super-Mario-Playing-Agent-Using-RL/" target="_blank">Check it out!</a>
+
+## Question Answering System
+### Question Answering System using Natural Language Processing (NLP) models (Splinter and SpanBERT)
+In this project we present the use of Splinter and SpanBERT models to showcase and try to solve the question-answering problem both in the closed domain and open domain as well, where the dataset used was (open domain) is SQuAD 2.0 and also a separate dataset (COVID dataset) has been generated by us for the splinter model (closed domain).
+
+<a href="https://saiganesh02.github.io/QUESTION-ANSWERING-SYSTEM/" target="_blank">Check it out!</a>
+
+## Speech recognition with HMM
+### Speech Word-Recognition with Hidden Markov Model (HMM)
+The speech recognition system implemented during this project trains one hidden Markov model for each word that it should be able to recognize. The models are trained with labeled training data, and the classification is performed by passing the features to each model and then selecting the best match.
+
+<a href="https://saiganesh02.github.io/Speech-Recognition-with-HMM/" target="_blank">Check it out!</a>
+
+## ChatZ
+### An Ethereum-powered Decentralized chat application.
+With the persisting scenario of increased privacy and security breaches in chatting and social media platforms, there’s been a sense of insecurity stirring amongst people globally. Decentralized applications use peer-to-peer networks, this eliminates the possibility of network failure due to central node failure. Blockchain functions as an immutable ledger that allows for decentralized messaging.
+
+<a href="https://saiganesh02.github.io/ChatZ/" target="_blank">Check it out!</a>
+
+## Object Detection using YOLO-V4
+### Object Detection on Images/Videos/Webcam using Tensorflow-YoloV4
+With the rapid development in deep learning, more powerful tools, which are able to learn semantic, high-level, deeper features, are introduced to address the problems existing in traditional architectures. This YOLO-V4 behave differently in network architecture, training strategy and optimization function, etc.
+
+<a href="https://saiganesh02.github.io/Object-Detection-using-YOLO-V4/" target="_blank">Check it out!</a>
+
+## VIRTUAL-TV
+### Capture a video of a TV frame and inlay a video to fit this frame
+In this project the basic aim was to try and fit in the overlay of a subject video onto another video containing the respective frame for playing the latter subject video. The solution to this problem was achieved by making the user define the four corners of the frame and then the previously mentioned corners using the Lucas-Kanade Optical Flow function in OpenCV were being kept track of. 
+
+<a href="https://saiganesh02.github.io/Virtual-TV/" target="_blank">Check it out!</a>
+
+## Phone-Directory
+### Basic Phone Directory using JAVA
+Data Structure and Algorithm (DSA)-based project which performs basic Phone Directory function abilities using the concepts of Binary Search Tree and Object-Oriented Programming using JAVA.
+
+<a href="https://github.com/SAIGANESH02/Phone-Directory" target="_blank">Check it out!</a>
+
+## Movie Recommendation System with Apache Spark
+Created a Movie Recommender System that seeks to predict or filter preferences according to the user's choices. Used Spark MLlib library for Machine Learning provides a Collaborative Filtering implementation by using Alternating Least Squares.
+
+<a href="https://github.com/SAIGANESH02/Phone-Directory" target="_blank">Check it out!</a>
+
+## Image Restoration using Deep Image Prior based on deep CNN's
+Worked on an existing research project called deep image prior which is based on image restoration which solves all image inverse applications with a new deep-prior algorithm.
+
+<a href="https://github.com/SAIGANESH02/deep-image-prior" target="_blank">Check it out!</a>
+
+<p align="center"><a href="https://github.com/saiganesh02"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
