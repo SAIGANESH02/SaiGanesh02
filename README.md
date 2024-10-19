@@ -91,7 +91,7 @@ Data Structure and Algorithm (DSA)-based project which performs basic Phone Dire
 ## Movie Recommendation System with Apache Spark
 Created a Movie Recommender System that seeks to predict or filter preferences according to the user's choices. Used Spark MLlib library for Machine Learning provides a Collaborative Filtering implementation by using Alternating Least Squares.
 
-<a href="https://github.com/SAIGANESH02/Phone-Directory" target="_blank">Check it out!</a>
+<a href="https://github.com/SAIGANESH02/Movie-Recommendation-System/" target="_blank">Check it out!</a>
 
 ## Image Restoration using Deep Image Prior based on deep CNN's
 Worked on an existing research project called deep image prior which is based on image restoration which solves all image inverse applications with a new deep-prior algorithm.
