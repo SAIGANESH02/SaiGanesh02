@@ -4,9 +4,9 @@
 <h3 align="center">Welcome to My Homepage</h3>
 
 
-<p align="center"> I am an experienced Machine Learning Engineer with a strong background in AI/ML deployment, cloud-based MLOps, and Generative AI solutions. I have built and deployed LLM-powered AI agents at <a href="https://www.paramountals.com/" target="_blank">Paramount</a> and RAG-based enterprise query systems at <a href="https://www.whyofai.com/" target="_blank">WhyofAI</a> for real-time insights.</p>
+<p align="center"> I am an experienced Machine Learning Engineer with a strong background in AI/ML deployment, cloud-based MLOps, and Generative AI solutions. I have built and deployed LLM-powered AI agents at <a href="thttps://www.paramountals.com/" target="_blank">Paramount</a> and RAG-based enterprise query systems at <a href="https://www.whyofai.com/" target="_blank">WhyofAI</a> for real-time insights.</p>
 
-<p align="center"> My expertise spans AI/ML Deployment, Cloud & MLOps, and Generative AI & NLP. I have hands-on experience with <strong>GCP, AWS, Azure, Docker, and CI/CD</strong> for scalable model deployment. Additionally, I have optimized NLP pipelines and built GPT-based AI models using <strong>TensorFlow, PyTorch, and TFX</strong>.</p>
+<p align="center"> My expertise spans AI/ML Deployment, Cloud & MLOps, and Generative AI & NLP. I have hands-on experience with <strong>GCP, AWS, Azure, Docker, and CI/CD</strong> for scalable model deployment. Additionally, I have optimized NLP pipelines and built GPT-based AI models using <strong>TensorFlow, and PyTorch</strong>.</p>
 
 <p align="center"> My background also includes <strong>Computer Vision & Data Science</strong>, where I developed image classification models and designed scalable ML workflows using OpenCV and deep learning architectures. Previously, I worked as an AI Engineer (R&D) at <a href="https://www.zoho.com/" target="_blank">Zoho CRM (SaaS)</a>, as a Computer Vision (AI) Research Intern at <a href="https://web.umang.gov.in/landing/" target="_blank">Amrita CREATE + UMANG Indian e-Governance Services</a>, and as an ML Intern at <a href="https://www.easycrop.com/" target="_blank">Easycrop</a>.</p>
 
