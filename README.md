@@ -21,7 +21,7 @@
 ## OptimAIzer
 ### Resume Boost AI Tool - Optimize Your Resume for ATS and Land Your Dream Job
 
-OptimAIzers transforms your resume into a job-winning masterpiece by combining AI-driven PDF parsing, job description scraping, and tailored analysis. Elevate your profile for ATS success and land your dream role with a few effortless clicks.
+OptimAIzers transforms your resume into a job-winning masterpiece by combining AI-driven PDF parsing, job description scraping, and tailored analysis—all powered by AWS cloud services for seamless performance. Elevate your profile for ATS success and land your dream role with a few effortless clicks.
 
 <a href="https://saiganesh02.github.io/OptimAIzer/" target="_blank">Check it out!</a>
 
