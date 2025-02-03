@@ -18,6 +18,20 @@
 
 <h3 align="center" style="font-style: italic;">A glimpse of the projects I've been working on</h3>
 
+## OptimAIzer
+### Resume Boost AI Tool - Optimize Your Resume for ATS and Land Your Dream Job
+
+OptimAIzers transforms your resume into a job-winning masterpiece by combining AI-driven PDF parsing, job description scraping, and tailored analysis. Elevate your profile for ATS success and land your dream role with a few effortless clicks.
+
+<a href="https://saiganesh02.github.io/OptimAIzer/" target="_blank">Check it out!</a>
+
+## InnovateChatbot
+### Same Same Collective - Chatbot tailored for LGBTQI+ youth in South Africa and Zimbabwe
+
+Same Same Collective Chatbot leverages a fine-tuned LLM and trained BERT model, and Logistic Regression model to accurately classify user emotions and detect suicidal risk. Tailored for LGBTQI+ youth in South Africa and Zimbabwe, it delivers empathetic responses and real-time interventions to provide crucial mental health support. This innovative blend of advanced NLP and compassionate design ensures timely, life-saving engagement.
+
+<a href="https://github.com/SAIGANESH02/ChatbotPracticum" target="_blank">Check it out!</a>
+
 ## (Computer) Vision with Lost Glasses 
 ### Modelling how the brain deals with noisy input
 
